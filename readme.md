@@ -10,19 +10,19 @@ You've spent hours agonizing over your r&eacute;sum&eacute; and your LinkedIn pr
 
 You gone through so many tutorials, but no-one knows you've done them, you can't *do* anything with them. At this point it's [mental masturbation](http://www.urbandictionary.com/define.php?term=Mental+Masturbation).
 
-You could make an app. Maybe a two-model CRUD app, like a very simple social network or bookmark tracker. But you've already started five of those and have yet to finish one. If you do the UI first then the back-end is overwhelming; if you do the back-end first then the UI is a pain. And then you have to get people to actually use it.
+You could make an app. Maybe a two-model CRUD app, like a very simple social network or bookmark tracker. But you've already started five of those and [have yet to finish one](http://www.commitstrip.com/en/2014/11/25/west-side-project-story/). If you do the UI first then the back-end is overwhelming; if you do the back-end first then the UI is a pain. And then you have to get people to actually use it.
 
 ### So what *do* you do?
 
 Make something small and stupid.
 
-It's hard to convince someone to use an app. It's easy to get someone to look at a page called [DucksAreTheBest.com](http://ducksarethebest.com/).
+It's hard to get someone to use an app. It's easy to get someone to look at a page called [DucksAreTheBest.com](http://ducksarethebest.com/).
 
 It probably took half an hour to make. It does absolutely nothing.
 
 It has been [shared 32,000 times on Facebook and is worth $30,000](http://www.siteprice.org/website-worth/ducksarethebest.com).
 
-The guy who created [PleaseDonate.biz](http://pleasedonate.biz) in 5 minutes had allegedly [earned $35,000 by 2013](https://www.quora.com/How-much-money-has-been-donated-at-pleasedonate-biz).
+The guy who created [PleaseDonate.biz](http://pleasedonate.biz) in 5 minutes allegedly [earned $35,000 by 2013](https://www.quora.com/How-much-money-has-been-donated-at-pleasedonate-biz).
 
 [/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/top/?sort=top&t=all) has over 5,000,000 subscribers and its #3 link is pure CSS. It's not even hosted on its own domain.
 
